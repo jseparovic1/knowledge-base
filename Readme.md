@@ -10,6 +10,7 @@
 - [Date and timezones by Derick Rethans](https://www.youtube.com/watch?v=C1y7udQk8pg&list=PLV9OnTq0kQ5w8Nuxfrfchq_rKyQuC4ABM&index=55&t=0s)
 - [Generators RFC](https://wiki.php.net/rfc/generators)
 - [Cooperative multitasking by Nikic](https://nikic.github.io/2012/12/22/Cooperative-multitasking-using-coroutines-in-PHP.html)
+- [Internals book](https://www.phpinternalsbook.com/)
   
 ### Symfony
 - [Grant on permissions not roles](https://wouterj.nl/2020/01/grant-on-permissions-not-roles)
