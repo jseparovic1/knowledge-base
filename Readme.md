@@ -29,10 +29,10 @@
 - [Ignore mass reformatting with git blame](https://akrabat.com/ignoring-revisions-with-git-blame/)
 
 ## Blogs
-- [matthiasnoback.nl/](https://matthiasnoback.nl)
-- [apisyouwonthate.com/](https://apisyouwonthate.com)
-- [phil.tech/](https://phil.tech)
-- [phpdelusions.net/](https://phpdelusions.net)
-- [www.nikolaposa.in.rs/blog/](https://www.nikolaposa.in.rs/blog)
+- [matthiasnoback.nl](https://matthiasnoback.nl)
+- [apisyouwonthate.com](https://apisyouwonthate.com)
+- [phil.tech](https://phil.tech)
+- [phpdelusions.net](https://phpdelusions.net)
+- [www.nikolaposa.in.rs/blog](https://www.nikolaposa.in.rs/blog)
 - [thephp.website](https://thephp.website/en)
 - [php.watch/articles](https://php.watch/articles)
