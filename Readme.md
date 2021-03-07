@@ -16,6 +16,7 @@
 - [Grant on permissions not roles](https://wouterj.nl/2020/01/grant-on-permissions-not-roles)
 - [Dependency injection container by example](https://medium.com/manomano-tech/diving-into-symfonys-dependencyinjection-part-1-first--steps-with-the-container-2fad0593c052)
 - [Make most out of twig](https://www.slideshare.net/AndreyYatsenco/make-the-most-of-twig-196422158)
+- [Elastichsearch the right way](https://jolicode.com/blog/elasticsearch-the-right-way-in-symfony)
 
 ## Date time trivia
 - [Destructing arrays in PHP](https://blog.frankdejonge.nl/array-destructuring-in-php/)
@@ -37,3 +38,6 @@
 - [www.nikolaposa.in.rs/blog](https://www.nikolaposa.in.rs/blog)
 - [thephp.website](https://thephp.website/en)
 - [php.watch/articles](https://php.watch/articles)
+
+## React
+- [Fun with react hooks](https://www.youtube.com/watch?v=1jWS7cCuUXw)
