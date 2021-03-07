@@ -29,6 +29,7 @@
 
 ## Tools
 - [Ignore mass reformatting with git blame](https://akrabat.com/ignoring-revisions-with-git-blame/)
+- [Intro to git by Scott Chacon](https://www.youtube.com/watch?v=XCnnSryzPrE)
 
 ## Blogs
 - [matthiasnoback.nl](https://matthiasnoback.nl)
