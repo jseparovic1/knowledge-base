@@ -18,6 +18,7 @@
 - [Make most out of twig](https://www.slideshare.net/AndreyYatsenco/make-the-most-of-twig-196422158)
 - [Elastichsearch the right way](https://jolicode.com/blog/elasticsearch-the-right-way-in-symfony)
 - [Building an object model by Beberlei](https://beberlei.de/2012/08/22/building_an_object_model__no_setters_allowed.html)
+- [Doctrine and aggregates](https://matthiasnoback.nl/2018/06/doctrine-orm-and-ddd-aggregates/)
 
 ## Date time trivia
 - [Destructing arrays in PHP](https://blog.frankdejonge.nl/array-destructuring-in-php/)
