@@ -17,6 +17,7 @@
 - [Dependency injection container by example](https://medium.com/manomano-tech/diving-into-symfonys-dependencyinjection-part-1-first--steps-with-the-container-2fad0593c052)
 - [Make most out of twig](https://www.slideshare.net/AndreyYatsenco/make-the-most-of-twig-196422158)
 - [Elastichsearch the right way](https://jolicode.com/blog/elasticsearch-the-right-way-in-symfony)
+- [Building an object model by Beberlei](https://beberlei.de/2012/08/22/building_an_object_model__no_setters_allowed.html)
 
 ## Date time trivia
 - [Destructing arrays in PHP](https://blog.frankdejonge.nl/array-destructuring-in-php/)
