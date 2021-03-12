@@ -11,6 +11,7 @@
 - [Generators RFC](https://wiki.php.net/rfc/generators)
 - [Cooperative multitasking by Nikic](https://nikic.github.io/2012/12/22/Cooperative-multitasking-using-coroutines-in-PHP.html)
 - [Internals book](https://www.phpinternalsbook.com/)
+- [Exceptional handling](https://www.nikolaposa.in.rs/blog/2016/08/17/exceptional-behavior-best-practices/)
   
 ### Symfony
 - [Grant on permissions not roles](https://wouterj.nl/2020/01/grant-on-permissions-not-roles)
