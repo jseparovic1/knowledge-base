@@ -13,7 +13,7 @@
 - [Internals book](https://www.phpinternalsbook.com/)
 - [Exceptional handling](https://www.nikolaposa.in.rs/blog/2016/08/17/exceptional-behavior-best-practices/)
 - [Run over 30k tests in 5 minutes](https://blog.mollie.com/how-to-run-over-30k-tests-in-under-5-minutes-b43907e88d51)
-- [Regex redability] (https://php.watch/articles/php-regex-readability)
+- [Regex redability](https://php.watch/articles/php-regex-readability)
   
 ### Symfony
 - [Grant on permissions not roles](https://wouterj.nl/2020/01/grant-on-permissions-not-roles)
