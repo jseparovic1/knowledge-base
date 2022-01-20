@@ -15,6 +15,7 @@
 - [Run over 30k tests in 5 minutes](https://blog.mollie.com/how-to-run-over-30k-tests-in-under-5-minutes-b43907e88d51)
 - [Regex redability](https://php.watch/articles/php-regex-readability)
 - [Unicode](https://www.youtube.com/watch?v=bcWI7M3m53s)
+- [Asynchronous PHP] (https://stitcher.io/blog/asynchronous-php)
   
 ### Symfony
 - [Grant on permissions not roles](https://wouterj.nl/2020/01/grant-on-permissions-not-roles)
