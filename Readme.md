@@ -47,6 +47,7 @@
 - [thephp.website](https://thephp.website/en)
 - [php.watch/articles](https://php.watch/articles)
 - [Stitcher](https://stitcher.io)
+- [frankdejounge.nl] https://blog.frankdejonge.nl
 
 ## React
 - [Fun with react hooks](https://www.youtube.com/watch?v=1jWS7cCuUXw)
