@@ -16,6 +16,7 @@
 - [Regex redability](https://php.watch/articles/php-regex-readability)
 - [Unicode](https://www.youtube.com/watch?v=bcWI7M3m53s)
 - [Asynchronous PHP](https://stitcher.io/blog/asynchronous-php)
+- [Sort by multiple conditions](https://blog.martinhujer.cz/clever-way-to-sort-php-arrays-by-multiple-values/)
   
 ### Symfony
 - [Grant on permissions not roles](https://wouterj.nl/2020/01/grant-on-permissions-not-roles)
