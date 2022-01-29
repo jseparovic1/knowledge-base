@@ -49,6 +49,7 @@
 - [php.watch/articles](https://php.watch/articles)
 - [Stitcher](https://stitcher.io)
 - [frankdejounge.nl](https://blog.frankdejonge.nl)
+- [doken.org](https://doeken.org/)
 
 ## React
 - [Fun with react hooks](https://www.youtube.com/watch?v=1jWS7cCuUXw)
