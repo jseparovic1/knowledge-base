@@ -50,6 +50,7 @@
 - [Stitcher](https://stitcher.io)
 - [frankdejounge.nl](https://blog.frankdejonge.nl)
 - [doken.org](https://doeken.org/)
+- [NatyPryce](http://www.natpryce.com/index.html)
 
 ## React
 - [Fun with react hooks](https://www.youtube.com/watch?v=1jWS7cCuUXw)
