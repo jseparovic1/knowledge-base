@@ -35,6 +35,9 @@
 - [Say no to venn digarams for joins](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
 - [Mode SQL](https://mode.com/sql-tutorial/)
 
+## DDD
+- [DDD series](https://verraes.net/2019/05/ddd-msg-arch/)
+
 ## Tools
 - [Ignore mass reformatting with git blame](https://akrabat.com/ignoring-revisions-with-git-blame/)
 - [Intro to git by Scott Chacon](https://www.youtube.com/watch?v=XCnnSryzPrE)
