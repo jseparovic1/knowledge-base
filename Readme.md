@@ -1,4 +1,4 @@
-# Usefull links
+# Useful links
 
 ## PHP
 - [A look at isset](https://blog.usejournal.com/a-look-at-phps-isset-df64df7158ab)
@@ -13,7 +13,7 @@
 - [Internals book](https://www.phpinternalsbook.com/)
 - [Exceptional handling](https://www.nikolaposa.in.rs/blog/2016/08/17/exceptional-behavior-best-practices/)
 - [Run over 30k tests in 5 minutes](https://blog.mollie.com/how-to-run-over-30k-tests-in-under-5-minutes-b43907e88d51)
-- [Regex redability](https://php.watch/articles/php-regex-readability)
+- [Regex readability](https://php.watch/articles/php-regex-readability)
 - [Unicode](https://www.youtube.com/watch?v=bcWI7M3m53s)
 - [Asynchronous PHP](https://stitcher.io/blog/asynchronous-php)
 - [Sort by multiple conditions](https://blog.martinhujer.cz/clever-way-to-sort-php-arrays-by-multiple-values/)
@@ -22,7 +22,7 @@
 - [Grant on permissions not roles](https://wouterj.nl/2020/01/grant-on-permissions-not-roles)
 - [Dependency injection container by example](https://medium.com/manomano-tech/diving-into-symfonys-dependencyinjection-part-1-first--steps-with-the-container-2fad0593c052)
 - [Make most out of twig](https://www.slideshare.net/AndreyYatsenco/make-the-most-of-twig-196422158)
-- [Elastichsearch the right way](https://jolicode.com/blog/elasticsearch-the-right-way-in-symfony)
+- [Elasticsearch the right way](https://jolicode.com/blog/elasticsearch-the-right-way-in-symfony)
 - [Building an object model by Beberlei](https://beberlei.de/2012/08/22/building_an_object_model__no_setters_allowed.html)
 - [Doctrine and aggregates](https://matthiasnoback.nl/2018/06/doctrine-orm-and-ddd-aggregates/)
 
@@ -54,6 +54,7 @@
 - [frankdejounge.nl](https://blog.frankdejonge.nl)
 - [doken.org](https://doeken.org/)
 - [NatyPryce](http://www.natpryce.com/index.html)
+- [Enterprise Craftsmanship by Vladimir Khorikov](https://enterprisecraftsmanship.com/)
 
 ## React
 - [Fun with react hooks](https://www.youtube.com/watch?v=1jWS7cCuUXw)
