@@ -35,17 +35,18 @@
 - [Say no to venn digarams for joins](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
 - [Mode SQL](https://mode.com/sql-tutorial/)
 
-## DDD
+## Craftmanship
 - [DDD series](https://verraes.net/2019/05/ddd-msg-arch/)
+- [Enterprise Craftsmanship by Vladimir Khorikov](https://enterprisecraftsmanship.com/)
+- [NatyPryce](http://www.natpryce.com/index.html)
+- [matthiasnoback.nl](https://matthiasnoback.nl)
 
 ## Tools
 - [Ignore mass reformatting with git blame](https://akrabat.com/ignoring-revisions-with-git-blame/)
 - [Intro to git by Scott Chacon](https://www.youtube.com/watch?v=XCnnSryzPrE)
 
 ## Blogs
-- [matthiasnoback.nl](https://matthiasnoback.nl)
 - [apisyouwonthate.com](https://apisyouwonthate.com)
-- [phil.tech](https://phil.tech)
 - [phpdelusions.net](https://phpdelusions.net)
 - [www.nikolaposa.in.rs/blog](https://www.nikolaposa.in.rs/blog)
 - [thephp.website](https://thephp.website/en)
@@ -53,8 +54,12 @@
 - [Stitcher](https://stitcher.io)
 - [frankdejounge.nl](https://blog.frankdejonge.nl)
 - [doken.org](https://doeken.org/)
-- [NatyPryce](http://www.natpryce.com/index.html)
-- [Enterprise Craftsmanship by Vladimir Khorikov](https://enterprisecraftsmanship.com/)
+- [Pragmatic Engineer](https://blog.pragmaticengineer.com/)
+- [highscalability.com](http://highscalability.com/)
+- [danluu.com](https://danluu.com/)
+- [Julia Evans](https://jvns.ca/)
+- [Martin Klepmann](https://martin.kleppmann.com/)
+- [fasterthanli.me](https://fasterthanli.me/)
 
 ## React
 - [Fun with react hooks](https://www.youtube.com/watch?v=1jWS7cCuUXw)
