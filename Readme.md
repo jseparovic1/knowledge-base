@@ -27,7 +27,6 @@
 - [Doctrine and aggregates](https://matthiasnoback.nl/2018/06/doctrine-orm-and-ddd-aggregates/)
 
 ## Date time trivia
-- [Destructing arrays in PHP](https://blog.frankdejonge.nl/array-destructuring-in-php/)
 - [Being in control of time in php](https://blog.frankdejonge.nl/array-destructuring-in-php/) 
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet)
 
