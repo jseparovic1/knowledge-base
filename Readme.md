@@ -31,9 +31,10 @@
 - [Being in control of time in php](https://blog.frankdejonge.nl/array-destructuring-in-php/) 
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet)
 
-## Sql 
+## Database
 - [Say no to venn digarams for joins](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
 - [Mode SQL](https://mode.com/sql-tutorial/)
+- [Locking](https://betterprogramming.pub/dont-forget-setting-database-locks-on-your-orm-entities-9cf4c074706)
 
 ## Craftmanship
 - [DDD series](https://verraes.net/2019/05/ddd-msg-arch/)
