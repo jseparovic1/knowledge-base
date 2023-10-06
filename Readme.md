@@ -42,6 +42,8 @@
 - [Enterprise Craftsmanship by Vladimir Khorikov](https://enterprisecraftsmanship.com/)
 - [NatyPryce](http://www.natpryce.com/index.html)
 - [matthiasnoback.nl](https://matthiasnoback.nl)
+- [Distributed Systems lectures](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [Distribuded System notes](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/dist-sys-notes.pdf)
 
 ## Tools
 - [Ignore mass reformatting with git blame](https://akrabat.com/ignoring-revisions-with-git-blame/)
