@@ -1,5 +1,26 @@
 # Useful links
 
+## General
+[The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 ](https://tonsky.me/blog/unicode/)
+
+## Date time trivia
+- [Being in control of time in php](https://blog.frankdejonge.nl/array-destructuring-in-php/) 
+- [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet)
+
+## Database
+- [Say no to venn digarams for joins](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
+- [Mode SQL](https://mode.com/sql-tutorial/)
+- [Locking](https://betterprogramming.pub/dont-forget-setting-database-locks-on-your-orm-entities-9cf4c074706)
+
+## Craftmanship
+- [DDD series](https://verraes.net/2019/05/ddd-msg-arch/)
+- [Enterprise Craftsmanship by Vladimir Khorikov](https://enterprisecraftsmanship.com/)
+- [NatyPryce](http://www.natpryce.com/index.html)
+- [matthiasnoback.nl](https://matthiasnoback.nl)
+- [Distributed Systems lectures](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [Distribuded System notes](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/dist-sys-notes.pdf)
+- [Feature tooggles aka Feature Flags] https://martinfowler.com/articles/feature-toggles.html#De-couplingDecisionPointsFromDecisionLogic
+
 ## PHP
 - [A look at isset](https://blog.usejournal.com/a-look-at-phps-isset-df64df7158ab)
 - [Phpunit data provider](https://blog.martinhujer.cz/how-to-use-data-providers-in-phpunit/)
@@ -27,24 +48,6 @@
 - [Elasticsearch the right way](https://jolicode.com/blog/elasticsearch-the-right-way-in-symfony)
 - [Building an object model by Beberlei](https://beberlei.de/2012/08/22/building_an_object_model__no_setters_allowed.html)
 - [Doctrine and aggregates](https://matthiasnoback.nl/2018/06/doctrine-orm-and-ddd-aggregates/)
-
-## Date time trivia
-- [Being in control of time in php](https://blog.frankdejonge.nl/array-destructuring-in-php/) 
-- [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet)
-
-## Database
-- [Say no to venn digarams for joins](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
-- [Mode SQL](https://mode.com/sql-tutorial/)
-- [Locking](https://betterprogramming.pub/dont-forget-setting-database-locks-on-your-orm-entities-9cf4c074706)
-
-## Craftmanship
-- [DDD series](https://verraes.net/2019/05/ddd-msg-arch/)
-- [Enterprise Craftsmanship by Vladimir Khorikov](https://enterprisecraftsmanship.com/)
-- [NatyPryce](http://www.natpryce.com/index.html)
-- [matthiasnoback.nl](https://matthiasnoback.nl)
-- [Distributed Systems lectures](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
-- [Distribuded System notes](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/dist-sys-notes.pdf)
-- [Feature tooggles aka Feature Flags] https://martinfowler.com/articles/feature-toggles.html#De-couplingDecisionPointsFromDecisionLogic
 
 ## Tools
 - [Ignore mass reformatting with git blame](https://akrabat.com/ignoring-revisions-with-git-blame/)
