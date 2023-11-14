@@ -19,7 +19,7 @@
 - [matthiasnoback.nl](https://matthiasnoback.nl)
 - [Distributed Systems lectures](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - [Distribuded System notes](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/dist-sys-notes.pdf)
-- [Feature tooggles aka Feature Flags] https://martinfowler.com/articles/feature-toggles.html#De-couplingDecisionPointsFromDecisionLogic
+- [Feature tooggles aka Feature Flags](https://martinfowler.com/articles/feature-toggles.html#De-couplingDecisionPointsFromDecisionLogic)
 
 ## PHP
 - [A look at isset](https://blog.usejournal.com/a-look-at-phps-isset-df64df7158ab)
