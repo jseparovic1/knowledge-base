@@ -41,6 +41,7 @@
 - [Sort by multiple conditions](https://blog.martinhujer.cz/clever-way-to-sort-php-arrays-by-multiple-values/)
 - [Logging](https://betterstack.com/community/guides/logging/how-to-start-logging-with-php/)
 - [How PHP enviromet variables work?](https://gist.github.com/samdark/01279afbce4871bd02b556bbb7ca4790)
+- [Writing better Regular Expressions in PHP](https://php.watch/articles/php-regex-readability)
   
 ### Symfony
 - [Grant on permissions not roles](https://wouterj.nl/2020/01/grant-on-permissions-not-roles)
