@@ -54,6 +54,7 @@
 ## Tools
 - [Ignore mass reformatting with git blame](https://akrabat.com/ignoring-revisions-with-git-blame/)
 - [Intro to git by Scott Chacon](https://www.youtube.com/watch?v=XCnnSryzPrE)
+- [Git is easier with update refs](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
 
 ## Blogs
 - [apisyouwonthate.com](https://apisyouwonthate.com)
