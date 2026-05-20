@@ -1,7 +1,8 @@
 # Useful links
 
 ## Classics
-- [What color is your function](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+- [CK10 Problem](https://www.kegel.com/c10k.html#related)
+- [What color is your function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 - [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 ](https://tonsky.me/blog/unicode/)
 - [Dont delete, just dont!](https://udidahan.com/2009/09/01/dont-delete-just-dont/)
 - [Tiger style](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)
