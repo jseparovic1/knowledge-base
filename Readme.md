@@ -1,7 +1,7 @@
 # Useful links
 
 ## Classics
-- [Let's reproduce GPT-2](https://www.youtube.com/watch?v=l8pRSuU81PU)
+- [Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 - [CK10 Problem](https://www.kegel.com/c10k.html#related)
 - [What color is your function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 - [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 ](https://tonsky.me/blog/unicode/)
